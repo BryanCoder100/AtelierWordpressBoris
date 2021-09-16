@@ -1,0 +1,13 @@
+/*
+Theme Name: theme_site_gwendoline
+Author: ACS ( Richard , Quarto , Boutaud , Pergaud )
+Author URI: 
+Description: Mon premier thème !
+Requires at least: WordPress 5.0
+Version: 1.0
+*/
+
+.custom-logo{
+    height: 120px!important;
+    width: auto!important;
+}
